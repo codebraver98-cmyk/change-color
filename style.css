@@ -1,0 +1,17 @@
+button{
+    padding: 5%;
+    border:1px solid;
+    border-radius: 20px;
+    margin: 3%;
+    width: 20%;
+    background: whitesmoke;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
